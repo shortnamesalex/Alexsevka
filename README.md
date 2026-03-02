@@ -1,2 +1,2 @@
 # Alexsevka
-Iosevka with a more techy appearance, the lovechild between JetBrains Mono and Fraktion Mono.
+Iosevka with a more techy appearance, the lovechild of JetBrains Mono and Fraktion Mono.
