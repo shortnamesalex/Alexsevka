@@ -1,8 +1,6 @@
 ![alexsevka_banner](https://github.com/user-attachments/assets/0fa83250-b803-4ed8-84c3-668c61d6417f)
 
-Alexsevka is a custom build of Iosevka v34.2.1 with a strong focus on readability and a contemporary yet futuristic aesthetic that would look at home in the den of a netrunner, ready to make their big break.
-
-It provides 4 widths (Condensed - Extended) and 7 weights (Thin - Black), ready to handle just about any application you throw at it. It takes inspiration from Jetbrains Mono and Fraktion Mono, incorporating the former's easy to read glyphs and the latter's punk-like aesthetic.
+Alexsevka is a custom build of Iosevka v34.2.1 with a strong focus on readability and a contemporary yet futuristic aesthetic that would look at home in the den of a netrunner, ready to make their big break. It takes inspiration from Jetbrains Mono and Fraktion Mono, incorporating the former's easy to read glyphs and the latter's punk-like aesthetic. Providing 4 widths and 7 weights out of the box, it is ready to handle just about any application you throw at it. 
 
 The major differences from Iosevka is the switch to a default width of 600 and most glyphs using a more "neutral" design. It has just about the same extensive character set as Iosevka, which covers over 200 languages including a large collection of ligatures and several glyphs in Cyrillic have been adjusted to match the Latin counterpart.
 
