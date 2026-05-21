@@ -1,6 +1,5 @@
 ## Alexsevka
-<img width="3840" height="1080" alt="image" src="https://github.com/user-attachments/assets/43e60bd3-e9b0-42bc-b57a-309eedf24d89" />
-<img width="6264" height="234" alt="image" src="https://github.com/user-attachments/assets/12825cee-ada8-41e3-bdf2-07befb854f09" />
+<img width="5046" height="902" alt="alexsevka_logo" src="https://github.com/user-attachments/assets/f9f686d9-1fd1-45f0-a5c4-ea75f941fc18" />
 
 ---
 
