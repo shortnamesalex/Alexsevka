@@ -3,7 +3,9 @@
 
 ---
 
-Alexsevka is a custom build of [Iosevka](https://github.com/be5invis/Iosevka) with a more neutral yet futuristic aesthetic that would look at home in the den of a netrunner, ready to make their big break. It takes inspiration from Jetbrains Mono and Fraktion Mono, using Iosevka's wide array of customization options as a base to incorporate the former's legible glyphs and the latter's techy, punk-like attitude. It also aims to be a bit more than just a programming font with 4 widths + 7 weights, expanding its usability beyond just code.
+Alexsevka is a custom build of [Iosevka](https://github.com/be5invis/Iosevka) with a more neutral yet futuristic aesthetic that would look at home in the den of a netrunner, ready to make their big break. It takes inspiration from Jetbrains Mono and Fraktion Mono, using Iosevka as a base to incorporate the former's legible glyphs and the latter's punk attitude. 
+
+It also aims to be a bit more than just a programming font with 4 widths + 7 weights, expanding its usability beyond just code.
 
 ---
 
@@ -17,7 +19,7 @@ Alexsevka is a custom build of [Iosevka](https://github.com/be5invis/Iosevka) wi
 2. Find the latest prebuilt zip and download the file.
 3. Unzip the file and install the fonts on your system.
 
-The typeface comes in hinted and unhinted flavours. Choose one of your picking.
+The typeface comes in hinted and unhinted flavours. WOFF2 is a question mark right now as it isn't compiling properly here.
 
 ## License & Credits
 
