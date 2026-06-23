@@ -1,5 +1,5 @@
 ## Alexsevka
-<img width="6594" height="938" alt="alexsevka_logo" src="https://github.com/user-attachments/assets/f12249ab-1b97-4baf-a2e9-c4ebd0a7e998" />
+<img width="6594" height="938" alt="_alexsevka_logo" src="https://github.com/user-attachments/assets/ad699fdf-117d-4821-a672-59b8f2eee67c" />
 
 ---
 
@@ -7,7 +7,7 @@ Alexsevka is a custom build of [Iosevka](https://github.com/be5invis/Iosevka) wi
 
 ---
 
-<img width="4334" height="1134" alt="alexsevka_banner_2" src="https://github.com/user-attachments/assets/ab4e606a-c9aa-43d8-a5e3-42f54f87eaee" />
+<img width="2200" height="1403" alt="alexsevka_banner_1" src="https://github.com/user-attachments/assets/638b8361-dfa7-4fcd-a056-5436c8143505" />
 
 ---
 
@@ -16,6 +16,8 @@ Alexsevka is a custom build of [Iosevka](https://github.com/be5invis/Iosevka) wi
 1. [Go to the Releases Page](https://github.com/shortnamesalex/Alexsevka/releases)
 2. Find the latest prebuilt zip and download the file.
 3. Unzip the file and install the fonts on your system.
+
+The typeface comes in hinted and unhinted flavours. Choose one of your picking.
 
 ## License & Credits
 
@@ -27,8 +29,8 @@ Font is licensed under the SIL Open Font License 1.1.
 
 ---
 
-<img width="3677" height="3117" alt="alexsevka_banner_3" src="https://github.com/user-attachments/assets/501f4a77-d79e-4f72-bf87-e0cb2ee9793c" />
-
-<img width="2631" height="3117" alt="alexsevka_banner_4" src="https://github.com/user-attachments/assets/d2ee72c6-4daa-433f-b441-46b425f132f2" />
+<img width="4334" height="1134" alt="alexsevka_banner_2" src="https://github.com/user-attachments/assets/ac4f63da-bb56-4264-ba8c-c54c0040919d" />
+<img width="2631" height="3117" alt="alexsevka_banner_4" src="https://github.com/user-attachments/assets/72f9e2ab-77d0-48e4-b83d-d472bb6b9fb7" />
+<img width="3677" height="3117" alt="alexsevka_banner_3" src="https://github.com/user-attachments/assets/cd567094-3ac4-4d2b-807c-18593e45cadb" />
 
 ---
