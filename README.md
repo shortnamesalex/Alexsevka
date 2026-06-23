@@ -23,13 +23,10 @@ The typeface comes in hinted and unhinted flavours. WOFF2 is a question mark rig
 
 ## License & Credits
 
-Alexsevka is a custom build of [Iosevka](https://github.com/be5invis/Iosevka). All original credit goes to Belleve Invis (be5invis) and the Iosevka contributors
-
-Square dotted zero glyph from [Anthrosevka](https://github.com/nanxstats/anthrosevka) by [nanxstats](https://github.com/nanxstats)
-
-Sample code from MS-DOS and Apple II source code
-
-Font is licensed under the SIL Open Font License 1.1.
+- Alexsevka is a custom build of [Iosevka](https://github.com/be5invis/Iosevka). All original credit goes to Belleve Invis (be5invis) and the Iosevka contributors
+- Square dotted zero glyph from [Anthrosevka](https://github.com/nanxstats/anthrosevka) by [nanxstats](https://github.com/nanxstats)
+- Sample code from MS-DOS and Apple II source code
+- Font is licensed under the SIL Open Font License 1.1.
 
 ---
 
